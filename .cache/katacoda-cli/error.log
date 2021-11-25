@@ -1,0 +1,16 @@
+2021-11-25T10:57:49.626Z Warning: command is not a katacoda command.
+2021-11-25T10:57:49.626Z     at Object.warn (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-11-25T10:57:49.626Z     at Object.warn (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/config/lib/config.js:115:42)
+2021-11-25T10:57:49.626Z     at Object.hook (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-11-25T10:57:54.560Z Error: Run katacoda help for a list of available commands.
+2021-11-25T10:57:54.560Z     at Object.error (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-11-25T10:57:54.560Z     at Object.error (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/config/lib/config.js:113:30)
+2021-11-25T10:57:54.560Z     at Object.hook (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2021-11-25T10:58:00.278Z Warning: COMMAND is not a katacoda command.
+2021-11-25T10:58:00.278Z     at Object.warn (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/errors/lib/index.js:49:15)
+2021-11-25T10:58:00.278Z     at Object.warn (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/config/lib/config.js:115:42)
+2021-11-25T10:58:00.278Z     at Object.hook (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2021-11-25T10:58:02.160Z Error: Run katacoda help for a list of available commands.
+2021-11-25T10:58:02.160Z     at Object.error (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/errors/lib/index.js:26:15)
+2021-11-25T10:58:02.160Z     at Object.error (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/config/lib/config.js:113:30)
+2021-11-25T10:58:02.160Z     at Object.hook (/usr/local/lib/node_modules/katacoda-cli/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
